@@ -5,10 +5,10 @@ This project is a practical approach designed for educational purposes. It is hi
 This project is grounded in the mathematical concept of implementing neural networks using matrix operations. It provides a comprehensive suite of matrix operations essential for neural network functionality. These include:
 - **Fundamental atomic functions** such as:
   - Addition, Multiplication, Dot product
-
 - **More abstract operations** like:
-  - Sigmoid, ReLU, LeakyReLU activation function
-  - And other necessary operations for neural network functionality
+  - Sigmoid, ReLU, LeakyReLU, activation function & other necessary operations for neural network functionality
+- **Loss functions**:
+  - MSE, MAE
 
 #### Future TODOs
 - Implement batch_size
