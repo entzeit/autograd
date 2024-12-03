@@ -12,13 +12,11 @@ This project is grounded in the mathematical concept of implementing neural netw
   - And other necessary operations for neural network functionality
 
 
-## TODOs
-
-- [ ] Implement batch_size
-- [ ] Implement no_grad
-- [ ] Fix BinaryCrossEntropy and Log
-- [ ] Improve Performance
+## Possible TODOs
+- Implement batch_size
+- Implement no_grad
+- Fix BinaryCrossEntropy and Log
+- Improve Performance
 
 ### License
-
 MIT
