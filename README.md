@@ -1,4 +1,4 @@
-### Autogradient Matrix Implementation for Neural Networks
+## Autogradient Matrix Implementation for Neural Networks
 
 This project is a practical approach designed for educational purposes. It is highly inspired by [Micrograd](https://github.com/karpathy/micrograd), but instead of working with atomic values, it implements auto gradient descent on **matrices**.
 
@@ -12,7 +12,7 @@ This project is grounded in the mathematical concept of implementing neural netw
   - And other necessary operations for neural network functionality
 
 
-## Possible TODOs
+### Future TODOs
 - Implement batch_size
 - Implement no_grad
 - Fix BinaryCrossEntropy and Log
