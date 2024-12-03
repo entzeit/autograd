@@ -9,6 +9,8 @@ This project is grounded in the mathematical concept of implementing neural netw
   - Sigmoid, ReLU, LeakyReLU, activation function & other necessary operations for neural network functionality
 - **Loss functions**:
   - MSE, MAE
+ 
+It includes a fully abstract generator for generating arbitrary test and training data.
 
 #### Future TODOs
 - Implement batch_size
